@@ -1,0 +1,1 @@
+cmd /k java -jar -server csv-gen-1.0.0-SNAPSHOT.jar
