@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: RossW
+Build-Jdk: 15.0.2
+Main-Class: com.rosswest.csv_gen.Main
+Created-By: Maven Integration for Eclipse
+
